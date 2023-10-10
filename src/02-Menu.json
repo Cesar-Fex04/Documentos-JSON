@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "desayuno": [
+      {
+        "nombre": "Gofres Belgas",
+        "precio": "5.95",
+        "descripcion": "Dos de nuestros famosos Gofres belgas con abundante sirope",
+        "calorias": "650"
+      },
+
+      {
+        "nombre": "Gofres Belgas con fresas",
+        "precio": "7.95",
+        "Descripcion": "Ligeros gofres belgas cubiertos con frutas del bosque y nata montada",
+        "Calorias": "900"
+      },
+      {
+        "Nombre": "Tostada francesa",
+        "Precio": "4.50",
+        "Descripcion": "Dos gruesas rebanadas de nuestro pan frances casero",
+        "Calorias": "600"
+      },
+      {
+        "Nombre": "Desayuno de la casa",
+        "Precio": "6.95",
+        "Descripcion": "Dos huevos, bacon o salchicha, tostada y patatas fritas",
+        "Calorias": "950"
+      }
+    ]
+  }
+}
